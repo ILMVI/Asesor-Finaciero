@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+streamlit-echarts==0.4.0
+scipy
+reportlab
+anthropic
